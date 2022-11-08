@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">grabadora</string>
+    <string name="reproducir">reprod..</string>
+    <string name="grabar">grabar</string>
+    <string name="item1">Opcion 1</string>
+    <string name="item2">Opcion 2</string>
+    <string name="item3">Opcion 3</string>
+    <string name="buscar">buscar</string>
+    <string name="compartir">compartir</string>
+
+</resources>

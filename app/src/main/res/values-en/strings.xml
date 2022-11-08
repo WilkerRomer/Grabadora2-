@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tape recorder</string>
+    <string name="reproducir">play</string>
+    <string name="grabar">record</string>
+    <string name="item1">option 1</string>
+    <string name="item2">option 2</string>
+    <string name="item3">option 3</string>
+    <string name="buscar">searche</string>
+    <string name="compartir">to share</string>
+
+</resources>
